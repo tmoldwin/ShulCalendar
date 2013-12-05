@@ -1,0 +1,10 @@
+﻿1. Shift all the cells in the "Parsha" column up one level, so the Parsha matches the candlelighting row.
+2. You will have to change the daylight savings time every year, unless you can figure out how to do it automatically.
+3. Add the number "2" to the second day of any yom tov i.e. פסח2ץ
+4. Add the word ערב to the entry for hoshana rabba and the last day of C"H Pesach
+5. Use the following codes in the last column
+	0 denotes Erev Yom Tov
+	1 is first day of Yom Tov
+	2 is second day of Yom Tov
+	3 is a day fast (Ta'anit Yachid)
+	
